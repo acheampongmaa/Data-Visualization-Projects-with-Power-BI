@@ -1,4 +1,4 @@
-# Data Visualization Using Power BI 
+# LinkedIn Data Analysis
 
 
 ![Power BI](./pics/powerbi.png)
