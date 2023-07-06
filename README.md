@@ -46,7 +46,7 @@ iv. Overview of the dashboard
 
 
  ✍ Note: Find attached the Power BI online publishing link to interact with the whole thing.
- - https://app.powerbi.com/groups/me/reports/ec6cda66-1b22-494f-ad4e-4d00b3eeb25e/ReportSection
+ - [LinkedIn Dashboard](https://app.powerbi.com/groups/me/reports/ec6cda66-1b22-494f-ad4e-4d00b3eeb25e/ReportSection/)
 
 
 
